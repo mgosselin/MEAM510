@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Acrobat V1.0", "Acrobat V1.0\Acrobat V1.0.cproj", "{2ECE8247-DFD9-4252-BA0A-9775998EB97F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECE8247-DFD9-4252-BA0A-9775998EB97F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2ECE8247-DFD9-4252-BA0A-9775998EB97F}.Debug|AVR.Build.0 = Debug|AVR
+		{2ECE8247-DFD9-4252-BA0A-9775998EB97F}.Release|AVR.ActiveCfg = Release|AVR
+		{2ECE8247-DFD9-4252-BA0A-9775998EB97F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
